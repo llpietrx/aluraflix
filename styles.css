@@ -1,4 +1,16 @@
 body {
-    color: black;
-    background: powderblue;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(0, 110, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+
+section {
+    background: rgb(0, 0, 0);
 }
